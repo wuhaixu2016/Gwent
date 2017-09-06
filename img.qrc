@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/background/background2.jpg</file>
+        <file>res/background/background3.jpg</file>
+        <file>res/buttonPicture/button1.jpg</file>
+        <file>res/buttonPicture/button3.jpg</file>
+        <file>res/buttonPicture/button5.jpg</file>
+        <file>res/buttonPicture/button_1.jpg</file>
+        <file>res/buttonPicture/button_3.jpg</file>
+        <file>res/buttonPicture/button_5.jpg</file>
+        <file>res/buttonPicture/button_4.jpg</file>
+        <file>res/buttonPicture/button4.jpg</file>
+        <file>res/background/background1.jpg</file>
+    </qresource>
+</RCC>
